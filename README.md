@@ -51,7 +51,7 @@ int main(void){
   //レイヤー0にテキストオブジェクトを配置
   ob2d::scene::addObject(sample_text,ob2d::scene::ObLayer::layer_pm0);
 
-  ob2d::setScene(main_scene);      //シーンを設定する(描画対象化)
+  ob2d::scene::setScene(main_scene);      //シーンを設定する(描画対象化)
 
   while(ob2d::window::is_WindowOpen()){
     ob2d::updateSystem();
