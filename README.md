@@ -43,7 +43,7 @@ int main(void){
   ob2d::window::initWindow(window_name,window_size);  //500*400のウィンドウ作成
   ob2d::scene::ObScene main_scene;
 
-  ob2d::sounds::ObMusic hello_music("Hello.mp3",true);    //trueは自動再生
+  ob2d::sounds::ObMusic hello_music("Hello.ogg",true);    //trueは自動再生
 
   ob2d::object::ObFont   hello_font("hello.ttf");
   ob2d::object::ObText2D sample_text(hello_font,30u,"Hello,Ob2D!");
