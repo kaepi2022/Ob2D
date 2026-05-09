@@ -1,12 +1,15 @@
 [![Ob2D_logo](https://raw.githubusercontent.com/kaepi2022/Ob2D_web/refs/heads/main/ob2d_logo.png)](https://kaepi2022.github.io/Ob2D)
 
-# Ob2D 🎮 C++専用2Dゲームエンジン
+# Ob2D C++専用2Dゲームエンジン
+Developed by kaepi2022
 
-**Ob2D**は、C++で2Dゲームを高速かつ簡単に作れる軽量ゲームエンジンです。  
+**Ob2D**(Object2D)は、C++で2Dゲームを高速かつ簡単に作れる軽量ゲームエンジンです。  
 低レイヤーの操作感覚を保ちつつ、描画・入力・衝突判定・サウンド再生まで一通りサポートします。
 
-
 もちろんGUIエディタもなく、さらにプログラムのファイル構成に制限はありません全て自分で作れるのです！！
+
+**Ob2DはSFMLをベースに作られています。
+SFML開発者のみなさんに感謝と敬意を示します！！！**
 
 ---
 
