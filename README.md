@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kaepi2022/Ob2D/d6744cc7ab846a48461165cac7b84a5f99349834/Ob2DLogo.svg" alt="Ob2D Logo" width="300">
+<img src="https://raw.githubusercontent.com/kaepi2022/Ob2D/335da0c66ba0f3a2ab870302ea4f92c422a8350b/Ob2DLogo.svg" alt="Ob2D Logo" width="300">
 
 # Ob2D C++専用2Dゲームエンジン
 Developed by kaepi2022
