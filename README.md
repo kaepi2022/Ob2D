@@ -1,4 +1,4 @@
-[![Ob2D_logo](https://raw.githubusercontent.com/kaepi2022/Ob2D_web/refs/heads/main/ob2d_logo.png)](https://kaepi2022.github.io/Ob2D)
+<img src="https://raw.githubusercontent.com/kaepi2022/Ob2D/d6744cc7ab846a48461165cac7b84a5f99349834/Ob2D.svg" alt="Ob2D Logo" width="300">
 
 # Ob2D C++専用2Dゲームエンジン
 Developed by kaepi2022
